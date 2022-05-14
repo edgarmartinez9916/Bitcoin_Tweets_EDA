@@ -9,6 +9,6 @@ This is an Exploratory Data Analysis project on the [Kaggle Trending Bitcoin Twe
 
 Bitcoin_cleaning_&_processing: Jupyter Notebook used to clean and process textual data from kaggle dataset
 
-Bitcoin_EDA.ipynb: Jupyter Notebook used to conduct EDA 
+Bitcoin_EDA.ipynb: Jupyter Notebook used to conduct EDA and Visualization
 
 
